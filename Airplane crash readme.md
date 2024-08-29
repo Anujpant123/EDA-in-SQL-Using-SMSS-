@@ -4,6 +4,7 @@
 
 This project involves the analysis of airplane crash data from 1908 to 2009. The data includes various details such as the date, location, operator, aircraft type, fatalities, and more. The analysis is performed using SQL Server Management Studio (SSMS) to explore trends, identify patterns, and generate insights into aviation safety over the last century.
 
+### Note: Click [Tableau](https://public.tableau.com/app/profile/anuj.pant/vizzes) for interactive dashboard of the dataset.
 ![alt text](https://static.vecteezy.com/system/resources/thumbnails/037/996/774/small/ai-generated-airplane-crash-disaster-burning-plane-wreckage-aftermath-photo.jpg)
 
 ## Tools and Technologies
@@ -37,4 +38,18 @@ Geographical Insights: Certain regions showed higher crash frequencies, possibly
 Operator Safety: Some operators had disproportionately high crash rates, which could warrant further investigation.
 Improved Safety: The fatality rate showed a downward trend over time, indicating improvements in aviation safety and technology.
 Common Causes: Human error and mechanical failures were identified as the most common causes of crashes.
+
+## Conclusion
+This analysis provided valuable insights into airplane crashes from 1908 to 2009. By exploring trends, geographical patterns, operator safety records, and causes of crashes, we gained a deeper understanding of aviation safety and the factors influencing crash outcomes. The results can be used to inform safety improvements and future research in the field of aviation.
+
+## Future Work
+Expanding the Dataset: Incorporating data beyond 2009 to continue the analysis and observe more recent trends.
+Advanced Analysis: Utilizing machine learning techniques to predict potential risk factors for airplane crashes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+Thanks to [Sauro Gandhi](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908) for providing the airplane crash data.
+Special thanks to the SQL and data analysis communities for their invaluable resources and support.
 
